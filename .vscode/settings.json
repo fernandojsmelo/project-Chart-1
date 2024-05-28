@@ -5,6 +5,7 @@
     "BTCUSDT",
     "datetime",
     "ETHUSDT",
+    "kline",
     "xaxis",
     "yaxis"
   ]
